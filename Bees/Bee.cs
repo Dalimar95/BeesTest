@@ -27,10 +27,6 @@ namespace Bees
                 int PercentDamageToHealthValue = (int)Math.Round(((double)(this.health/100) * value));
                 this.health -= PercentDamageToHealthValue;
             }
-            if(this.health < 0 )
-            {
-                health = 0;
-            }
             CheckHealth();            
         }
 
