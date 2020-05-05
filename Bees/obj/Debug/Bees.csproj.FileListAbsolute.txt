@@ -1,0 +1,10 @@
+C:\Users\kamil\source\repos\workApplication\Bees\Bees\bin\Debug\Bees.exe.config
+C:\Users\kamil\source\repos\workApplication\Bees\Bees\bin\Debug\Bees.exe
+C:\Users\kamil\source\repos\workApplication\Bees\Bees\bin\Debug\Bees.pdb
+C:\Users\kamil\source\repos\workApplication\Bees\Bees\obj\Debug\Bees.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\workApplication\Bees\Bees\obj\Debug\Bees.Form1.resources
+C:\Users\kamil\source\repos\workApplication\Bees\Bees\obj\Debug\Bees.Properties.Resources.resources
+C:\Users\kamil\source\repos\workApplication\Bees\Bees\obj\Debug\Bees.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\workApplication\Bees\Bees\obj\Debug\Bees.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\workApplication\Bees\Bees\obj\Debug\Bees.exe
+C:\Users\kamil\source\repos\workApplication\Bees\Bees\obj\Debug\Bees.pdb
